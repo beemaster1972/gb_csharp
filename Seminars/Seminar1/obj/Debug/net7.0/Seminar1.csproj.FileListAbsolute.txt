@@ -1,0 +1,14 @@
+/home/beemaster/gb/GB_csharp/Seminars/Seminar1/bin/Debug/net7.0/Seminar1
+/home/beemaster/gb/GB_csharp/Seminars/Seminar1/bin/Debug/net7.0/Seminar1.deps.json
+/home/beemaster/gb/GB_csharp/Seminars/Seminar1/bin/Debug/net7.0/Seminar1.runtimeconfig.json
+/home/beemaster/gb/GB_csharp/Seminars/Seminar1/bin/Debug/net7.0/Seminar1.dll
+/home/beemaster/gb/GB_csharp/Seminars/Seminar1/bin/Debug/net7.0/Seminar1.pdb
+/home/beemaster/gb/GB_csharp/Seminars/Seminar1/obj/Debug/net7.0/Seminar1.GeneratedMSBuildEditorConfig.editorconfig
+/home/beemaster/gb/GB_csharp/Seminars/Seminar1/obj/Debug/net7.0/Seminar1.AssemblyInfoInputs.cache
+/home/beemaster/gb/GB_csharp/Seminars/Seminar1/obj/Debug/net7.0/Seminar1.AssemblyInfo.cs
+/home/beemaster/gb/GB_csharp/Seminars/Seminar1/obj/Debug/net7.0/Seminar1.csproj.CoreCompileInputs.cache
+/home/beemaster/gb/GB_csharp/Seminars/Seminar1/obj/Debug/net7.0/Seminar1.dll
+/home/beemaster/gb/GB_csharp/Seminars/Seminar1/obj/Debug/net7.0/refint/Seminar1.dll
+/home/beemaster/gb/GB_csharp/Seminars/Seminar1/obj/Debug/net7.0/Seminar1.pdb
+/home/beemaster/gb/GB_csharp/Seminars/Seminar1/obj/Debug/net7.0/Seminar1.genruntimeconfig.cache
+/home/beemaster/gb/GB_csharp/Seminars/Seminar1/obj/Debug/net7.0/ref/Seminar1.dll

@@ -1,0 +1,14 @@
+/home/beemaster/gb/GB_csharp/Lection1_HelloUser/obj/Debug/net7.0/Lection1_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+/home/beemaster/gb/GB_csharp/Lection1_HelloUser/obj/Debug/net7.0/Lection1_HelloUser.AssemblyInfoInputs.cache
+/home/beemaster/gb/GB_csharp/Lection1_HelloUser/obj/Debug/net7.0/Lection1_HelloUser.AssemblyInfo.cs
+/home/beemaster/gb/GB_csharp/Lection1_HelloUser/obj/Debug/net7.0/Lection1_HelloUser.csproj.CoreCompileInputs.cache
+/home/beemaster/gb/GB_csharp/Lection1_HelloUser/bin/Debug/net7.0/Lection1_HelloUser
+/home/beemaster/gb/GB_csharp/Lection1_HelloUser/bin/Debug/net7.0/Lection1_HelloUser.deps.json
+/home/beemaster/gb/GB_csharp/Lection1_HelloUser/bin/Debug/net7.0/Lection1_HelloUser.runtimeconfig.json
+/home/beemaster/gb/GB_csharp/Lection1_HelloUser/bin/Debug/net7.0/Lection1_HelloUser.dll
+/home/beemaster/gb/GB_csharp/Lection1_HelloUser/bin/Debug/net7.0/Lection1_HelloUser.pdb
+/home/beemaster/gb/GB_csharp/Lection1_HelloUser/obj/Debug/net7.0/Lection1_HelloUser.dll
+/home/beemaster/gb/GB_csharp/Lection1_HelloUser/obj/Debug/net7.0/refint/Lection1_HelloUser.dll
+/home/beemaster/gb/GB_csharp/Lection1_HelloUser/obj/Debug/net7.0/Lection1_HelloUser.pdb
+/home/beemaster/gb/GB_csharp/Lection1_HelloUser/obj/Debug/net7.0/Lection1_HelloUser.genruntimeconfig.cache
+/home/beemaster/gb/GB_csharp/Lection1_HelloUser/obj/Debug/net7.0/ref/Lection1_HelloUser.dll

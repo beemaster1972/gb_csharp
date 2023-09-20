@@ -12,7 +12,6 @@ void FillArray(int[] collection)
   }
 }
 
-
 void printArray(int[] collection)
 {
   int length = collection.Length;
@@ -32,4 +31,3 @@ void Main()
 }
 
 Main();
-

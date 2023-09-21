@@ -14,11 +14,11 @@ int pickNumber(int min, int max)
 string Answer(int num, int pickedNumber)
 {
     string answer = "";
-    if (num < pickedNumber)
+    if (num > pickedNumber)
     {
         answer = "Холодно";
     }
-    else if (num > pickedNumber)
+    else if (num < pickedNumber)
     {
         answer = "Горячо";
     }

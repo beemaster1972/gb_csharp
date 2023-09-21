@@ -49,6 +49,7 @@ void Main()
             break;
         }
     }
+    Console.WriteLine($"Было загадано число {pickedNumber}");
 }
 
 Main();

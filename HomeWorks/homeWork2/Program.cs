@@ -7,6 +7,19 @@ int GetDigit(int number, int digitNumber)
 {
   // int count = 0;
   int result;
-  result = number % (10 * *(digitNumber));
+  result = number / Convert.ToInt32(Math.Pow(10, digitNumber));
+  Console.WriteLine(result);
+  result %= Convert.ToInt32(Math.Pow(10,digitNumber-1));
   return result;
 }
+
+void Main()
+{
+  Console.Write("Enter number: ");
+  int number = Convert.ToInt32(Console.ReadLine());
+  Console.Write("Enter digit number: ");
+  int digitNumber = Convert.ToInt32(Console.ReadLine());
+  Console.WriteLine(GetDigit(number, digitNumber));
+}
+
+Main();

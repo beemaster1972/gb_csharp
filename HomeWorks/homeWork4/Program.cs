@@ -57,9 +57,10 @@ void ShowArray(int[] array)
   }
 }
 
-Console.WriteLine(GetPower(3, 5));
-Console.WriteLine(GetPower(2, 4));
-Console.WriteLine(GetSumDigits(452));
-Console.WriteLine(GetSumDigits(82));
-Console.WriteLine(GetSumDigits(9012));
+Console.WriteLine($"3^5 = {GetPower(3, 5)}");
+Console.WriteLine($"2^4 = {GetPower(2, 4)}");
+Console.WriteLine($"Sum of digits 452 = {GetSumDigits(452)}");
+Console.WriteLine($"Sum of digits 82 = {GetSumDigits(82)}");
+Console.WriteLine($"Sum of digits 9012 = {GetSumDigits(9012)}");
+Console.WriteLine("Array[5] random set from 1 to 19:");
 ShowArray(SetArray(5, 1, 19));

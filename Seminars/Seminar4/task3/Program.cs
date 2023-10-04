@@ -19,12 +19,12 @@ int GetSumNumbers(int num)
 
 int GetFactorial(int num)
 {
-    int sum = 1;
+    int prod = 1;
     for (int i = 1; i <= num; i++)
     {
-        sum *= i;
+        prod *= i;
     }
-    return sum;
+    return prod;
 }
 Console.WriteLine(GetSumNumbers(5));
 Console.WriteLine(GetFactorial(5));

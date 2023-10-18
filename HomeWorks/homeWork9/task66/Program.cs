@@ -4,7 +4,9 @@
 // M = 1; N = 15 -> 120
 // M = 4; N = 8. -> 30
 //
-
+///<summary>
+///
+///</summary>
 int GetSumRange(int m, int n)
 {
     int min = m > n ? n : m;
@@ -22,4 +24,7 @@ int GetSumRange(int m, int n)
 
 int m = 1;
 int n = 5;
+System.Console.WriteLine($"sum({m};{n}) = {GetSumRange(m, n)}");
+m = 5;
+n = 1;
 System.Console.WriteLine($"sum({m};{n}) = {GetSumRange(m, n)}");
